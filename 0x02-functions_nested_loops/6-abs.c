@@ -5,7 +5,7 @@
  *Return: the absolute value of the integer
  */
 int _abs(int t)
-{i
+{
 	if (t < 0)
 		t = -t;
 		return (t);
